@@ -1,0 +1,7 @@
+C:\Users\ZeeNzY\source\repos\DatabaseDemo\DatabaseDemo\bin\Debug\netstandard2.0\DatabaseDemo.deps.json
+C:\Users\ZeeNzY\source\repos\DatabaseDemo\DatabaseDemo\bin\Debug\netstandard2.0\DatabaseDemo.dll
+C:\Users\ZeeNzY\source\repos\DatabaseDemo\DatabaseDemo\obj\Debug\netstandard2.0\DatabaseDemo.csprojAssemblyReference.cache
+C:\Users\ZeeNzY\source\repos\DatabaseDemo\DatabaseDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ZeeNzY\source\repos\DatabaseDemo\DatabaseDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ZeeNzY\source\repos\DatabaseDemo\DatabaseDemo\obj\Debug\netstandard2.0\DatabaseDemo.AssemblyInfoInputs.cache
+C:\Users\ZeeNzY\source\repos\DatabaseDemo\DatabaseDemo\obj\Debug\netstandard2.0\DatabaseDemo.AssemblyInfo.cs
