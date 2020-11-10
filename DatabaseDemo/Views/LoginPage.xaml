@@ -2,11 +2,24 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="DatabaseDemo.Views.LoginPage">
+
     <ContentPage.Content>
-        <StackLayout>
+
+        <StackLayout Margin="40">
             <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
+                VerticalOptions="Center"
                 HorizontalOptions="CenterAndExpand" />
+
+
+            <Entry x:Name="UsernameEntry" 
+                   Placeholder="UserName"/>
+            <Entry x:Name="PasswordEntry" 
+                   Placeholder="Password"/>
+            <Button Margin="30" 
+                    Text="go"
+                    Clicked="Button_Clicked"/>
+
         </StackLayout>
-    </ContentPage.Content>
+    </ContentPage.Content> >
+    
 </ContentPage>

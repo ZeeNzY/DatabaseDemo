@@ -1,10 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using SQLite;
 
 namespace DatabaseDemo.Data
 {
-    interface ISQLite
+    public interface ISQLite
     {
+        SQLiteConnection GetConnection();
     }
 }

@@ -8,7 +8,7 @@ using SQLite;
 
 namespace DatabaseDemo.Models
 {
-    class User
+    public class User
     {
         [PrimaryKey]
         public int Id { get; set; }
