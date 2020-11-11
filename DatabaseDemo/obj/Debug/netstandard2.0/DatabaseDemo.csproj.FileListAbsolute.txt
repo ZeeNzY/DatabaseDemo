@@ -10,3 +10,6 @@ C:\Users\ZeeNzY\source\repos\DatabaseDemo\DatabaseDemo\obj\Debug\netstandard2.0\
 C:\Users\ZeeNzY\source\repos\DatabaseDemo\DatabaseDemo\obj\Debug\netstandard2.0\DatabaseDemo.dll
 C:\Users\ZeeNzY\source\repos\DatabaseDemo\DatabaseDemo\obj\Debug\netstandard2.0\ref\DatabaseDemo.dll
 C:\Users\ZeeNzY\source\repos\DatabaseDemo\DatabaseDemo\obj\Debug\netstandard2.0\DatabaseDemo.pdb
+C:\Users\ZeeNzY\source\repos\DatabaseDemo\DatabaseDemo\bin\Debug\netstandard2.0\ref\DatabaseDemo.dll
+C:\Users\ZeeNzY\source\repos\DatabaseDemo\DatabaseDemo\bin\Debug\netstandard2.0\DatabaseDemo.pdb
+C:\Users\ZeeNzY\source\repos\DatabaseDemo\DatabaseDemo\obj\Debug\netstandard2.0\XamlC.stamp

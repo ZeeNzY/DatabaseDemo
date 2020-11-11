@@ -2,10 +2,8 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="DatabaseDemo.Views.LoginPage">
-
-    <ContentPage.Content>
-
-        <StackLayout Margin="40">
+    
+    <StackLayout Margin="40">
             <Label Text="Welcome to Xamarin.Forms!"
                 VerticalOptions="Center"
                 HorizontalOptions="CenterAndExpand" />
@@ -20,6 +18,5 @@
                     Clicked="Button_Clicked"/>
 
         </StackLayout>
-    </ContentPage.Content> >
     
 </ContentPage>

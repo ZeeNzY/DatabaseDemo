@@ -1,5 +1,6 @@
 ﻿using System;
 using DatabaseDemo.Data;
+using DatabaseDemo.Views;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -14,7 +15,7 @@ namespace DatabaseDemo
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+             MainPage = new LoginPage();
         }
 
         protected override void OnStart()

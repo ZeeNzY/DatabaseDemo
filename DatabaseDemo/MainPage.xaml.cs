@@ -13,6 +13,7 @@ namespace DatabaseDemo
         public MainPage()
         {
             InitializeComponent();
+
         }
     }
 }
